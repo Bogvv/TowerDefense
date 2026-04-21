@@ -1,6 +1,10 @@
 package com.example.buhalisgard_defend;
 
 public class Main{
+Pula2
+    public void pidr(){
+        int i = 67;
+}
 
 
     public boolean ciao(){
