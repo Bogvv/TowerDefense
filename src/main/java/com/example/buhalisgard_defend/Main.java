@@ -8,4 +8,6 @@ public class Main{
         if (a == 0) return true;
         return false;
     }
+
+    int pula = 19;
 }
