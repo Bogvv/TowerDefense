@@ -1,7 +1,6 @@
 package com.example.buhalisgard_defend;
 
 public class Main{
-Pula2
     public void pidr(){
         int i = 67;
 }
@@ -11,5 +10,6 @@ Pula2
         int a = 0;
         if (a == 0) return true;
         return false;
+        hui hui hui hui hui hui hui
     }
 }
