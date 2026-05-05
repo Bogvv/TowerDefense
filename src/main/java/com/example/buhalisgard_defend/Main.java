@@ -10,6 +10,6 @@ public class Main{
         int a = 0;
         if (a == 0) return true;
         return false;
-        hui hui hui hui hui hui hui
+
     }
 }
